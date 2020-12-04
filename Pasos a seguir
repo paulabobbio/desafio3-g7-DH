@@ -3,3 +3,4 @@ El pipeline sin el step de procesamiento de datos pierde sentido... ¿lo borramo
 El primer modelo a evaluar debería ser Naive-Bayes, porque es el más sencillo de implementar y sirve como benchmark
 Usar gridsearch para hallar los mejores hiperparámetros de KNN y de Logistic Regression
 Agrandar la muestra y agregar más features para mejorar la eficacia de los modelos
+Revisar encabezados y descripciones para que quede lo más prolijo posible
