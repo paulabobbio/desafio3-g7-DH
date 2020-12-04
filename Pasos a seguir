@@ -4,3 +4,5 @@ El primer modelo a evaluar debería ser Naive-Bayes, porque es el más sencillo 
 Usar gridsearch para hallar los mejores hiperparámetros de KNN y de Logistic Regression
 Agrandar la muestra y agregar más features para mejorar la eficacia de los modelos
 Revisar encabezados y descripciones para que quede lo más prolijo posible
+Para Naive-Bayes usar pipeline simple (xq no necesita gridsearch)
+Para Regresión Logística y KNN usar pipeline + gridsearch (en el pipeline ver notebook de clase donde explica la función de preprocesamiento de datos)
